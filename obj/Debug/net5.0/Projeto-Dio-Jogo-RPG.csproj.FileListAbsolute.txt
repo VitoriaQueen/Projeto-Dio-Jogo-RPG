@@ -1,0 +1,16 @@
+C:\Users\tiave\Documents\Projeto-Dio-Jogo-RPG\bin\Debug\net5.0\Projeto-Dio-Jogo-RPG.exe
+C:\Users\tiave\Documents\Projeto-Dio-Jogo-RPG\bin\Debug\net5.0\Projeto-Dio-Jogo-RPG.deps.json
+C:\Users\tiave\Documents\Projeto-Dio-Jogo-RPG\bin\Debug\net5.0\Projeto-Dio-Jogo-RPG.runtimeconfig.json
+C:\Users\tiave\Documents\Projeto-Dio-Jogo-RPG\bin\Debug\net5.0\Projeto-Dio-Jogo-RPG.runtimeconfig.dev.json
+C:\Users\tiave\Documents\Projeto-Dio-Jogo-RPG\bin\Debug\net5.0\Projeto-Dio-Jogo-RPG.dll
+C:\Users\tiave\Documents\Projeto-Dio-Jogo-RPG\bin\Debug\net5.0\ref\Projeto-Dio-Jogo-RPG.dll
+C:\Users\tiave\Documents\Projeto-Dio-Jogo-RPG\bin\Debug\net5.0\Projeto-Dio-Jogo-RPG.pdb
+C:\Users\tiave\Documents\Projeto-Dio-Jogo-RPG\obj\Debug\net5.0\Projeto-Dio-Jogo-RPG.csproj.AssemblyReference.cache
+C:\Users\tiave\Documents\Projeto-Dio-Jogo-RPG\obj\Debug\net5.0\Projeto-Dio-Jogo-RPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiave\Documents\Projeto-Dio-Jogo-RPG\obj\Debug\net5.0\Projeto-Dio-Jogo-RPG.AssemblyInfoInputs.cache
+C:\Users\tiave\Documents\Projeto-Dio-Jogo-RPG\obj\Debug\net5.0\Projeto-Dio-Jogo-RPG.AssemblyInfo.cs
+C:\Users\tiave\Documents\Projeto-Dio-Jogo-RPG\obj\Debug\net5.0\Projeto-Dio-Jogo-RPG.csproj.CoreCompileInputs.cache
+C:\Users\tiave\Documents\Projeto-Dio-Jogo-RPG\obj\Debug\net5.0\Projeto-Dio-Jogo-RPG.dll
+C:\Users\tiave\Documents\Projeto-Dio-Jogo-RPG\obj\Debug\net5.0\ref\Projeto-Dio-Jogo-RPG.dll
+C:\Users\tiave\Documents\Projeto-Dio-Jogo-RPG\obj\Debug\net5.0\Projeto-Dio-Jogo-RPG.pdb
+C:\Users\tiave\Documents\Projeto-Dio-Jogo-RPG\obj\Debug\net5.0\Projeto-Dio-Jogo-RPG.genruntimeconfig.cache
